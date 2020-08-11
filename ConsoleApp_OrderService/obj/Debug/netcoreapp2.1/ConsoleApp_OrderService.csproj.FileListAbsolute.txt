@@ -1,0 +1,11 @@
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\bin\Debug\netcoreapp2.1\ConsoleApp_OrderService.deps.json
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\bin\Debug\netcoreapp2.1\ConsoleApp_OrderService.runtimeconfig.json
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\bin\Debug\netcoreapp2.1\ConsoleApp_OrderService.runtimeconfig.dev.json
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\bin\Debug\netcoreapp2.1\ConsoleApp_OrderService.dll
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\obj\Debug\netcoreapp2.1\ConsoleApp_OrderService.csprojAssemblyReference.cache
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\obj\Debug\netcoreapp2.1\ConsoleApp_OrderService.csproj.CoreCompileInputs.cache
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\obj\Debug\netcoreapp2.1\ConsoleApp_OrderService.AssemblyInfoInputs.cache
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\obj\Debug\netcoreapp2.1\ConsoleApp_OrderService.AssemblyInfo.cs
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\bin\Debug\netcoreapp2.1\ConsoleApp_OrderService.pdb
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\obj\Debug\netcoreapp2.1\ConsoleApp_OrderService.dll
+D:\我的檔案\.NET Core\ConsoleApp_OrderService\ConsoleApp_OrderService\obj\Debug\netcoreapp2.1\ConsoleApp_OrderService.pdb

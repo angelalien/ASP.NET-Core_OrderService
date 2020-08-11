@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_OrderService", "ConsoleApp_OrderService\ConsoleApp_OrderService.csproj", "{1A61B866-0A25-4327-8D43-AD0DEA974052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A61B866-0A25-4327-8D43-AD0DEA974052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A61B866-0A25-4327-8D43-AD0DEA974052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A61B866-0A25-4327-8D43-AD0DEA974052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A61B866-0A25-4327-8D43-AD0DEA974052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E47B90EF-7BCB-4E09-84D7-FD4135BA509C}
+	EndGlobalSection
+EndGlobal
